@@ -36,15 +36,20 @@ python main.py
 
 ## 🖼️运行截图及说明
 #### 主界面UI控制
-<img src="demo1.png" width="300" alt="主界面UI控制">
-<p align="center">主界面UI控制</p>
+<img src="demo1.png" width="600" alt="主界面UI控制">
+<p >程序运行即弹出</p>
 
 #### 爬取控制
-<img src="demo2.png" width="600" alt="爬取控制">
-<p align="center">爬取交互</p>
+<img src="demo2.png" width="600" alt="爬取开始控制">
+<p >点击开始按钮则开始爬取</p>
+<img src="demo3.png" width="600" alt="爬取结束控制">
+<p >点击停止按钮则停止爬取</p>
 
-
-
+#### 数据清洗
+<img src="demo2.png" width="600" alt="清洗控制">
+<p >点击数据清洗按钮则开始清洗数据</p>
+<img src="demo3.png" width="600" alt="清洗数据结束">
+<p >提示清洗数据前后结果</p>
 
 
 
