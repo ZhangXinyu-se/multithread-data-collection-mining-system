@@ -36,10 +36,10 @@ python main.py
 
 ## 🖼️运行截图及说明
 #### 主界面UI控制
-![运行截图](demo1.png?width=600)
+![运行截图](demo1.png?width=260)
 
 #### 爬取控制
-![运行截图](demo2.png?width=600)
+![运行截图](demo2.png?width=260)
 
 
 
