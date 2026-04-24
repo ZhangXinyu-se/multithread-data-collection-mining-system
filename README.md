@@ -30,3 +30,9 @@ pip install -r requirements.txt
 
 ## 运行方式
 python main.py
+
+## 注意事项
+使用前请替换为自己的浏览器Cookies，否则无法正常爬取
+
+## 运行截图及说明
+
