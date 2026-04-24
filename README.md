@@ -35,22 +35,25 @@ python main.py
 使用前请替换为自己的浏览器Cookies，否则无法正常爬取
 
 ## 🖼️运行截图及说明
-#### 主界面UI控制
+### 主界面UI控制
 <img src="demo1.png" width="600" alt="主界面UI控制">
 <p >程序运行即弹出</p>
 
-#### 爬取控制
+### 爬取控制
 <img src="demo2.png" width="600" alt="爬取开始控制">
 <p >点击开始按钮则开始爬取</p>
 <img src="demo3.png" width="600" alt="爬取结束控制">
 <p >点击停止按钮则停止爬取</p>
 
-#### 数据清洗
-<img src="demo2.png" width="600" alt="清洗控制">
+### 数据清洗
+<img src="demo4.png" width="600" alt="清洗控制">
 <p >点击数据清洗按钮则开始清洗数据</p>
-<img src="demo3.png" width="600" alt="清洗数据结束">
+<img src="demo5.png" width="600" alt="清洗数据结束">
 <p >提示清洗数据前后结果</p>
 
+### 可视化
+<img src="demo6.png" width="600" alt="可视化结果">
+<p>可视化图片展示</p>
 
 
 
