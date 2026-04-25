@@ -56,7 +56,7 @@ python main.py
 <p>可视化图片展示</p>
 
 ## 📄项目完整报告
-本项目的完整设计与实现报告（含需求分析、设计方案、实现细节与测试说明）已随代码一并提交，报告文件Report.docx位于本仓库的根目录，可直接查看与下载。
+[点击下载并查看项目完整报告（PDF版）](https://github.com/ZhangXinyu-se/multithread-data-collection-mining-system/raw/main/Report.pdf)
 
 
 
