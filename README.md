@@ -55,6 +55,11 @@ python main.py
 <img src="demo6.png" width="600" alt="可视化结果">
 <p>可视化图片展示</p>
 
+### 项目总结与完整报告说明
+<a href="https://github.com/ZhangXinyu-se/multithread-data-collection-mining-system/raw/main/Report.docx" download>
+  📄点击下载
+</a>
+
 
 
 
